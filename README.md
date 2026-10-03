@@ -15,7 +15,7 @@ I am developing my skills in:
 - Networking fundamentals
 - Troubleshooting and technical documentation
 
-This repository is designed to showcase my growth as a beginner-friendly but professional cybersecurity learner preparing for roles such as:
+This repository is designed to showcase my growth as a beginner friendly but professional cybersecurity learner preparing for roles such as:
 - IT Support / Help Desk
 - Cybersecurity Analyst
 - SOC Analyst
@@ -41,7 +41,7 @@ My goal is to document and present:
 - Cybersecurity labs
 - Network analysis
 - Security concepts
-
+- Windows Excel
 ## Current Areas of Focus
 
 - Packet capture and network traffic analysis
@@ -81,9 +81,9 @@ I am building experience toward entry-level positions in:
 
 ## Contact
 
-- GitHub: [Your GitHub Username]
-- LinkedIn: [Your LinkedIn URL]
-- Email: [Your Email Address]
+- GitHub: [SebastianBCyber
+- LinkedIn: www.linkedin.com/in/sebastian-b-7a91712b3
+- Email: sebastianbertrand2015@gmail.com
 
 ## Note
 
