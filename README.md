@@ -2,7 +2,7 @@
 
 Welcome to my cybersecurity portfolio.
 
-I am an Information Technology student at Old Dominion University with a focus on cybersecurity, networking, IT support, and security fundamentals. This portfolio highlights the hands-on labs, technical tasks, and security concepts I have explored through my coursework and practical lab work.
+I am an aspiring IT and cybersecurity professional with hands on experience in networking, IT support, security fundamentals, and technical troubleshooting. I have developed practical skills through cybersecurity labs and projects involving Wireshark, Nmap, Kali Linux, Ubuntu, Windows Excel, VirtualBox, and network analysis. This portfolio demonstrates my technical skills, problem-solving abilities, and commitment to building a career in IT and cybersecurity.
 
 ## About Me
 
