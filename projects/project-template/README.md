@@ -1,5 +1,5 @@
-# Project Title
-Linux Storage Management and Disk Partitioning Using Command Line Tools
+# Linux Storage Management and Disk Partitioning Using Command Line Tools
+
 ## Project Overview
 This project focused on Linux storage management using command-line tools to create disk partitions, format filesystems, and mount and unmount storage devices. It was designed to demonstrate how Linux systems organize, manage, and access storage resources. These skills are essential for system administration, troubleshooting, and maintaining reliable IT infrastructure.
 
