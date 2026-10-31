@@ -1,4 +1,4 @@
-# Sebastian [Last Name]
+# Sebastian Bertrand
 
 Information Technology Student | Cybersecurity Learner | Networking & Lab Enthusiast
 
