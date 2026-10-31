@@ -24,11 +24,6 @@ Each project entry is designed to:
 - `project-template/` — reusable project template
 - `odu-labs/` — ODU lab documentation and notes
 
-## How to Use This Folder
-
-Add each project as its own subfolder with a clear, professional README. Use the project template to keep the formatting consistent and recruiter-friendly.
-
-## Example Project Format
 
 Each project should include:
 - Project Overview
