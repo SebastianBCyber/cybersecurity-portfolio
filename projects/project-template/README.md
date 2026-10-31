@@ -57,7 +57,7 @@ Unmounted the filesystem and verified that the /cyse directory no longer contain
 - I was able to configure and managed Linux storage using command-line tools. Created disk partitions, formatted storage with the ext4 filesystem, mounted and unmounted devices, and verified storage accessibility. Gained hands-on experience with Linux storage management and basic system administration.
 
 ## What I Learned
-- Improved my understanding of Linux disk management and storage devices.r
+- I improved my understanding of Linux disk management and storage devices
 - Gained hands on experience using Linux command line tools like Terminal.
 - Strengthened troubleshooting and documentation skills and mounting and unmounting filesystems
 - Better understood how Linux storage management applies to system administration and cybersecurity.
